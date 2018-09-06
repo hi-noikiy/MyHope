@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+*.swp
+
+img/
+
+*.vrb
+*.log 
+*.aux
+*.nav
+*.snm
+*.toc
+*.out
+*.txt
+*.gz
