@@ -1,0 +1,46 @@
+<fact>
+1. when btc is sideway drifting, alts rises.
+2. when volume rises and price is going down, should stop loss
+3. when volume rises and price is going up, sould enter
+
+<premises>
+1. signal around support / resistance line is reliable
+2. do not enter on down trend 
+
+
+<portfolio management>
+1. portfolio should be btc:alt = 6:4
+2. cash rate should maintain greater than 20% of total
+3. only on the super strong signal use excess cash
+
+<strategy>
+1. decide current trend by weekly, daily, hourly, minutely
+2. decide trend by assistant indicator - candle
+3. using oscillator - 
+4. strength of trend - 
+5. volume indicator
+6. catch reversal signal
+7. different strategy between uptrend and downtrend
+   uptrend - buy at bottom of corrective move, stop-loss is support line
+   downtrend - buy at pullback on a corrective move and sell resistance line
+8. divided entry, exit
+9. check trend strength with large time frame, and trade in small time frame
+10. rapidly rise ,then before strength get down enter and sell at 1~2 percentage high
+
+with zigzag/peak and valley
+ - check current trend
+   : last 2 peaks and valleys make higher high and low => uptrend
+   : last 2 peaks and valleys make lower high and low => downtrend
+ - long strategy : currently uptrend and current price is near at last valley
+ - short strategy : current price is near at last valley
+
+with stochastick
+ - long strategy : K and D kissed below 20 and K is crossing D while K is rising
+ - short strategy : K and D kissed upper 80 and K is crossing D while K is falling
+
+with support/resistance line
+ - long strategy : price is falling and volume is lower than threshold(not strong) and going to s/r line (divide 30%, 30%, 40%)
+ - short strategy : price is rising and volume is lower than threshold(not strong) and going to s/r line (divide 30%, 30%, 40%) 
+
+<stoploss criteria>
+1. when break to support line specific %, then sell at support line
